@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.573);
+}
+
+/* Color #ae2f27  */
+
+/*----------------------- table ----------------*/
+
+.dia-lunes {
+  color: #ed6f50;
+}
+
+.dia-martes {
+  color: #d85d41;
+}
+
+.dia-miercoles {
+  color: #c44b31;
+}
+
+.dia-jueves {
+  color: #af3922;
+}
+
+.dia-viernes {
+  color: #9a2712;
+}
